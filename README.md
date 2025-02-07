@@ -5,7 +5,7 @@ ProjectSnapshot is a Bash script designed to generate a structured snapshot of a
 
 **Features:**
 
--   Select a project folder via macOS dialog
+-   Select a project folder via cross-platform file dialog
 -   Generate a structured tree view of the project
 -   Extract text content from files while skipping binaries
 -   Ensure accurate character counting to match external limitations
