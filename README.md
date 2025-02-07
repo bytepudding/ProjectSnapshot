@@ -1,6 +1,5 @@
 # ProjectSnapshot
 
-**Description:**  
 ProjectSnapshot is a Bash script designed to generate a structured snapshot of a project's directory, including file contents, while respecting custom character limits. If the output exceeds the specified limit, it automatically splits the content into multiple files. The script also filters out unwanted files and directories using predefined exclusion patterns.
 
 **Features:**
